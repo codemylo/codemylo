@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codemylo
-- 👀 I’m interested in software and game development
-- 🌱 I’m currently learning python
-- 📫 How to reach me https://www.linkedin.com/in/codejmsrp/
+- 👀 I’m interested in software development and engineering 
+- 🌱 I’m currently studying python and learning devops
+- 📫 How to reach me https://www.linkedin.com/in/joeyshidou/
 - ⚡ Fun fact: I STARTED CODING AT 19
 
 <!---
